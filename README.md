@@ -1,4 +1,4 @@
-# **Ahmad Ashraf AbduL Aziz**  👋
+# **Ahmad Ashraf Abdul Aziz**  👋
 
 Welcome to my GitHub! I'm a passionate learner and a developer who loves solving problems with code. Here's a bit about me:
 
