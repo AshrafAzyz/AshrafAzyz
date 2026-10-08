@@ -1,12 +1,63 @@
-# **Ahmad Ashraf Abdul Aziz**  👋
+Ahmad Ashraf
+Computer Engineering | Software & Systems
 
-Welcome to my GitHub! I'm a passionate learner and a developer who loves solving problems with code. Here's a bit about me:
+Building things at the intersection of:
+Linux • Python • Computer Vision • XR • Embedded Systems
 
-- 👀 I’m interested in **Artificial Intelligence** and **Software Development**.
-- 💞️ I’m looking to collaborate on **open-source projects**, especially in **AI**.
-- 📫 You can reach out me through LinkedIn [LinkedIn](https://www.linkedin.com/in/ahmad-ashraf-abdul-aziz).
+────────────────────────────────────────────
 
-Let's build something awesome together!
+CURRENTLY BUILDING
 
+ash-cli
+A Linux system information CLI written in Python.
 
+→ Python packaging
+→ Linux system interfaces
+→ CLI architecture
+→ pytest
+→ GitHub Actions
 
+────────────────────────────────────────────
+
+SELECTED PROJECTS
+
+ash-cli
+Linux CLI / Python / System Administration
+
+Virtual High Voltage Laboratory
+VR / Unity / Blender / Engineering Education
+
+Computer Vision / OCR
+Python / OpenCV / OCR / AI
+
+────────────────────────────────────────────
+
+TECHNICAL INTERESTS
+
+Languages
+Python • C • C++ • C#
+
+Systems
+Linux • Ubuntu • Git • systemd
+
+AI / Vision
+OpenCV • YOLO • Computer Vision
+
+XR
+Unity • Blender • OpenXR
+
+────────────────────────────────────────────
+
+LEARNING
+
+Python packaging
+Linux internals
+Software testing
+CI/CD
+Open-source development
+
+────────────────────────────────────────────
+
+CONTACT
+
+LinkedIn • Email • Portfolio
