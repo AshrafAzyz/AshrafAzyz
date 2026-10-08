@@ -1,6 +1,6 @@
 # About Me:
 
-Hi, I'm Ahmad Ashraf, a Computer Engineering graduate from Universiti Teknologi PETRONAS (UTP). 
+Bonjour, I'm Ashraf Aziz, a Computer Engineering graduate from Universiti Teknologi PETRONAS (UTP). 
 I'm interested in software development, Linux, AI, computer vision, and embedded systems. I enjoy learning new technologies and building projects across different areas of engineering.
 
 # Tools I Use:
